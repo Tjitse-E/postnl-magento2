@@ -1,5 +1,5 @@
 {
-    "name": "tig/postnl-magento2",
+    "name": "tig/postnl-magento2-m22",
     "description": "TIG Magento 2 PostNL extension",
     "require": {
         "setasign/fpdf": "1.8.1",
